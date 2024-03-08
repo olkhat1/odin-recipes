@@ -1,0 +1,15 @@
+body {
+    font-family: 'Times New Roman', "DejaVu Sans", sans-serif;
+    font-size: larger;
+    background-color: rgb(245, 245, 126);
+
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ol {
+    list-style-position: inside;
+}
